@@ -1,5 +1,5 @@
 # School_District_Analysis
-## Panda Module Challenge for School District Analysis
+## Panda Module Challenge, School District Analysis
  ### 1. Overview of the school district analysis: Explain the purpose of this analysis.
 The purpose of the school district analysis was to assist the decision making of a city school board. We were tasked with analysing standardized testing data along with other relevant data to make this information usable by the school board.
 
